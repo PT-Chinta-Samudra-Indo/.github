@@ -17,41 +17,41 @@
 
 ---
 
-# :office: Tentang Kami
+# 🏢 Tentang Kami
 
 PT. Chinta Samudra Indo adalah perusahaan kontraktor umum (**General Contractor**) dan jasa yang bergerak di bidang **Konstruksi Sipil, Marine Industry, Perkapalan, Perdagangan, Perindustrian, Foundry, serta barang dan jasa** yang berlandaskan hukum resmi di Indonesia.
 
 ---
 
-# :earth_africa: Visi
+# 🌏 Visi
 
 > **Menjadi perusahaan jasa konstruksi yang berkualitas di skala nasional maupun internasional.**
 
 ---
 
-# :dart: Misi
+# 🎯 Misi
 
-* :construction_worker: Menciptakan lapangan pekerjaan bagi masyarakat.
-* :books: Menghasilkan tenaga kerja yang handal dan berkualitas.
-* :zap: Membuat keputusan dengan cepat.
-* :handshake: Mengedepankan kepuasan pelanggan.
+* 👷 Menciptakan lapangan pekerjaan bagi masyarakat.
+* 📚 Menghasilkan tenaga kerja yang handal dan berkualitas.
+* ⚡ Membuat keputusan dengan cepat.
+* 🤝 Mengedepankan kepuasan pelanggan.
 
 ---
 
-# :hammer_and_wrench: Layanan Kami
+# 🛠️ Layanan Kami
 
 | Layanan                       | Deskripsi                                                                               |
 | :---------------------------- | :-------------------------------------------------------------------------------------- |
-| :construction_site: **General**               | Penyedia solusi umum yang terintegrasi untuk berbagai kebutuhan industri dan komersial. |
-| :construction_worker: **Contractor**             | Layanan kontraktor profesional untuk proyek konstruksi sipil dan arsitektur.            |
-| :ship: **Marine Industry**        | Dukungan penuh untuk industri kelautan, mulai dari perawatan hingga pengadaan spesifik. |
-| :gear: **Engineering**            | Solusi rekayasa teknis yang inovatif untuk meningkatkan efisiensi operasional.          |
-| :nut_and_bolt: **Machine & Engine Parts** | Penyediaan suku cadang mesin dan peralatan berat berkualitas tinggi.                    |
-| :package: **Procurement**            | Layanan pengadaan barang dan jasa yang transparan, cepat, dan efisien.                  |
+| 🏗️ **General**                | Penyedia solusi umum yang terintegrasi untuk berbagai kebutuhan industri dan komersial. |
+| 👷 **Contractor**             | Layanan kontraktor profesional untuk proyek konstruksi sipil dan arsitektur.            |
+| 🚢 **Marine Industry**        | Dukungan penuh untuk industri kelautan, mulai dari perawatan hingga pengadaan spesifik. |
+| ⚙️ **Engineering**            | Solusi rekayasa teknis yang inovatif untuk meningkatkan efisiensi operasional.          |
+| 🔩 **Machine & Engine Parts** | Penyediaan suku cadang mesin dan peralatan berat berkualitas tinggi.                    |
+| 📦 **Procurement**            | Layanan pengadaan barang dan jasa yang transparan, cepat, dan efisien.                  |
 
 ---
 
-# :star: Komitmen Kami
+# ⭐ Komitmen Kami
 
 Kami berkomitmen untuk terus meningkatkan kemampuan dan kualitas kerja sebagai perusahaan yang profesional dalam memberikan pelayanan terbaik kepada seluruh pelanggan dan mitra kerja.
 
