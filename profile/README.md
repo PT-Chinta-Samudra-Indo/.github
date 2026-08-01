@@ -21,8 +21,6 @@
 
 PT. Chinta Samudra Indo adalah perusahaan kontraktor umum (**General Contractor**) dan jasa yang bergerak di bidang **Konstruksi Sipil, Marine Industry, Perkapalan, Perdagangan, Perindustrian, Foundry, serta barang dan jasa** yang berlandaskan hukum resmi di Indonesia.
 
-Komitmen kami adalah terus meningkatkan kemampuan dan kualitas kerja sebagai perusahaan yang profesional.
-
 ---
 
 # :earth_africa: Visi
